@@ -1,5 +1,5 @@
 
-![Tau Technology Logo](./2.png)
+![Tau Technology Logo](2.png)
 
 # Tau Technology - Company Profile
 
