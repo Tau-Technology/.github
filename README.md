@@ -56,41 +56,16 @@ As a technology company, we understand the importance of staying ahead of the cu
 
 For detailed information about our services and partners, please refer to the full company profile document.
 
-![Tau Technology Services]()
 
 ## Let's Work Together
 
-We are excited to collaborate with you and help you achieve success. If you are interested in partnering with Tau Technology or would like more information about our services, please contact us at [contact@tautechnology.com](mailto:contact@tautechnology.com).
+We are excited to collaborate with you and help you achieve success. If you are interested in partnering with Tau Technology or would like more information about our services, please contact us at [contact@tautechnology.com](mailto:contact@tautechnology.co).
 
 Thank you for your interest in Tau Technology!
 
 Sincerely,
 
-Selman Mohammed
-CEO
+Haptome .H
 
+CTO
 
-
-1. Upload the images and videos to your GitHub repository. You can create a new folder in your repository and place the files there.
-
-2. In your README file, you can use Markdown syntax to display the images and videos. For example, to display an image, you can use the following syntax:
-
-   ````
-   ![Alt Text](path/to/your/image.png)
-   ```
-
-   Replace `Alt Text` with a descriptive text for the image and `path/to/your/image.png` with the actual path to your image file.
-
-3. Similarly, to embed a video, you can use the following Markdown syntax:
-
-   ````
-   [![Alt Text](path/to/your/thumbnail.png)](https://youtu.be/your-video-link)
-   ```
-
-   Replace `Alt Text` with a descriptive text for the video, `path/to/your/thumbnail.png` with the path to the thumbnail image of your video, and `https://youtu.be/your-video-link` with the actual link to your video.
-
-4. Commit and push your changes to the GitHub repository. The images and video will now be included in your README file.
-
-Remember to replace `path/to/your/image.png`, `path/to/your/thumbnail.png`, and `https://youtu.be/your-video-link` with the actual paths and links to your files.
-
-I have provided placeholders for the image and video in the README template above. You can replace them with the appropriate paths and links based on the files you have uploaded to your GitHub repository.
